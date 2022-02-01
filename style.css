@@ -1,0 +1,28 @@
+h1,
+h2 {
+  text-align: center;
+  font-weight: bold;
+}
+
+h1 {
+  background-color: #8efefe;
+}
+
+h2 {
+  color: #0018ffad;
+}
+
+img {
+  width: 200px;
+  height: auto;
+}
+
+.base {
+  font-size: 25px;
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: bold;
+}
+
+.meatloaf{
+    color:red;
+}
