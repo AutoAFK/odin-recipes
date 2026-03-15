@@ -1,0 +1,41 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #FCFCFC;
+}
+
+img {
+    width:800;
+    height: auto;
+}
+
+.container {
+    width: 800px;
+    margin: 0 auto;
+    padding: 10px 0;
+}
+
+.title {
+    text-align: center;
+}
+
+.link-back {
+    display: block;
+    color:white;
+    background-color: rgba(20, 0, 255, 0.5);
+    width:100px;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    font-weight: bold;
+    border: 2px solid rgba(20, 0, 255,0.3);
+    border-radius: 5px;
+}
+
+a {
+    text-decoration: none;
+}
